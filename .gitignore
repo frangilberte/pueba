@@ -1,0 +1,10 @@
+#Ignorando un tipo de archivo
+#/*.jpg
+#
+
+#Ignorando directorio
+#/"directorio"
+
+#Ignoranodo archivo
+
+/archivo_ignorado.txt
