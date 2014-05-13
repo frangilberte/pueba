@@ -1,0 +1,6 @@
+[] Nota 1
+	Mensaje de prueba 1
+[] Nota 2
+	Mensaje de prueba 2
+[] Nota 3
+	Mensaje de prueba 3
